@@ -1,36 +1,62 @@
-NEW PROGRESSIVE PARTY (NPP)
-A freer, fairer Caprica.
-Conversation guide | 2068
+NEW PROGRESSIVE PARTY
+A freer, fairer Caprica. Together.
+Conversation guide | 2072
 
-OUR SHARED PURPOSE
-A country that works for its people. A future we build together.
+OUR PURPOSE
+A centre-left liberal programme after four years in opposition: freedom to be yourself and a fair chance to thrive. These are proposals for the next term.
 
-START WITH WHAT MATTERS
-Ask what would make the biggest difference in someone's community. Listen, then connect the conversation to a specific policy. Refer to the full manifesto for detail and do not present proposals as achievements.
+PUBLIC CARE
+Good care, close to home. Whoever you are.
+- Recruit and retain care teams, expand local clinics and publish waiting-time data so investment follows need.
+- Bring mental healthcare into primary care and guarantee access to essential medicines.
+- Pool the cost of parental and long-term illness leave through social insurance, supporting families and small employers alike.
 
-HOMES
-Increase supply through planning reform, retain safety and quality standards, and introduce a progressive tax from the third residential property onward. The manifesto favours expanding supply over rent control.
+AFFORDABLE HOMES
+Secure renting. More homes. Room to put down roots.
+- Allow more homes near jobs and public transport, with clear planning rules and strong safety standards.
+- Expand public and cooperative housing, funded through transparent investment and a fairer tax on land value.
+- Enforce decent standards and fair tenancy procedures. Put empty homes to use and introduce a progressive levy from the third residential property onward.
 
-PUBLIC SERVICES
-Strengthen publicly administered healthcare and universally accessible, publicly funded education. Raise teacher salaries and invest in regional access to quality services.
+FAIR WORK
+Rights at work. Freedom to organise. A stake in change.
+- Protect collective bargaining and elected worker representation, with secret ballots and the freedom to join or leave a union.
+- Offer paid retraining and benefits that follow workers between jobs. Help people share in new technology’s gains.
+- Tackle wage theft and unsafe work. Give small firms practical compliance support and proportionate penalties for honest paperwork errors.
 
-CONNECTION
-Build high-speed rail linking every state capital and better rural-to-urban transit connections.
+LEARNING & DISCOVERY
+Opportunity should be, too.
+- Strengthen public early-years provision and schools, with better teacher pay, training and retention.
+- Protect publicly funded access to university and technical education. Make retraining possible throughout working life.
+- Back independent research, regional laboratories and accessible R&D support for small firms. Require human accountability when AI affects people’s rights.
 
-CLEAN ENERGY
-Develop nuclear and renewable energy, introduce an emissions cap-and-permit system and establish a national green investment bank.
+AN OPEN SOCIETY
+Government should answer to you.
+- Replace sweeping intelligence powers with targeted, judge-authorised surveillance. Ban torture, scrutinise budgets in Parliament and require independent reviews of secrecy.
+- Defend expression, peaceful assembly, privacy and equal treatment. Keep the press and courts independent of government.
+- Require public asset declarations, transparent appointments and a citizens’ constitutional convention on accountable parliamentary government.
 
-DEMOCRATIC REFORM
-Convene a constitutional convention for a Third Republic. Require public asset declarations from officials and ministers, and protect judicial independence.
+CLIMATE & CLEAN ENERGY
+Clean power. Warmer homes. Good jobs.
+- Invest in renewables, nuclear energy, storage and the grid. Give communities a share in new clean-energy projects.
+- Insulate homes and prioritise households facing high energy costs. Fund practical retraining where industries change.
+- Set a firm emissions cap and create a green investment bank with published lending criteria, independent audits and clear public returns.
 
-EQUAL DIGNITY
-Enforce equality protections and equal pay, recognise diverse family structures, and expand targeted support for people in need.
+CONNECTED COMMUNITIES
+Reliable journeys. More time for life.
+- Strengthen public transport, with reliable local services, coordinated timetables and simpler fares.
+- Build rail links in costed stages towards a network between state capitals. Improve rural bus and rail connections.
+- Create safer walking and cycling routes, accessible stations and useful links to homes, schools and clinics.
 
-KEEP THE MESSAGE CONSISTENT
-Party name: New Progressive Party
-Short name: NPP
-Shared line: A freer, fairer Caprica.
-Use the supplied NPP logo. Link people to the original manifesto for the complete platform. This guide is a summary, not a replacement for the manifesto.
+CAPRICA & THE WORLD
+A confident Caprica in the Columbian Union.
+- Keep Caprica in the Columbian Union and pursue democratic, federalist reform through cooperation. Put negotiations under parliamentary scrutiny.
+- Expand research, education and clean-energy cooperation. Support open trade with enforceable labour and environmental standards.
+- Maintain a professional defence force under civilian control. Put diplomacy, international law and human rights at the centre of foreign policy.
 
-SOURCE
-Progressive Caprica Manifesto (supplied PDF), provided as the policy source for the NPP website. The original PDF is available on the website.
+START BY LISTENING
+Ask what matters in your community. Discuss the proposals honestly, without presenting them as achievements or making unsupported claims.
+
+READ THE CURRENT PROGRAMME
+https://manualalan.github.io/npp-caprica-2068/plan/
+
+The 2068 manifesto and candidate speeches remain historical archive material.

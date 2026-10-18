@@ -1,0 +1,122 @@
+{
+  "usage": "Illustrative real photography for the fictional NPP Caprica 2072 website. The people and locations shown are not represented as party endorsers or documentary evidence of events in Caprica.",
+  "verified_on": "2026-10-18",
+  "processing": "Resized from source CDN; converted to progressive optimized JPEG. No generated imagery or compositing.",
+  "images": [
+    {
+      "file": "community.jpg",
+      "photographer": "Wenzy Wong",
+      "source": "https://unsplash.com/photos/people-enjoying-a-picnic-in-a-park-under-trees-h_BBIBgwfOA",
+      "download": "https://images.unsplash.com/photo-1776758923286-2b6643d9dd10?auto=format&fit=max&fm=jpg&w=1600&q=78",
+      "license": "https://unsplash.com/license",
+      "description": "People picnicking beneath trees in a public park.",
+      "placement": "Community/public spaces; landscape hero possible; textured film aesthetic.",
+      "suggested_object_position": "50% 55%",
+      "width": 1600,
+      "height": 1061,
+      "bytes": 277118
+    },
+    {
+      "file": "care.jpg",
+      "photographer": "National Cancer Institute",
+      "source": "https://unsplash.com/photos/doctor-talking-to-patient-in-clinic-tl447mekwuQ",
+      "download": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?auto=format&fit=max&fm=jpg&w=1200&q=78",
+      "license": "https://unsplash.com/license",
+      "description": "A smiling doctor consulting with a patient.",
+      "placement": "Public care card; warm human focal point.",
+      "suggested_object_position": "50% 40%",
+      "width": 1200,
+      "height": 782,
+      "bytes": 104854
+    },
+    {
+      "file": "work.jpg",
+      "photographer": "HONG SON",
+      "source": "https://www.pexels.com/photo/carpenter-working-with-wood-in-workshop-32357249/",
+      "download": "https://images.pexels.com/photos/32357249/pexels-photo-32357249.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "license": "https://www.pexels.com/license/",
+      "description": "A carpenter working at a woodworking machine in a workshop.",
+      "placement": "Fair work and skills; keep person visible at centre.",
+      "suggested_object_position": "50% 50%",
+      "width": 1200,
+      "height": 675,
+      "bytes": 125886
+    },
+    {
+      "file": "learning.jpg",
+      "photographer": "Yustinus Tjiuwanda",
+      "source": "https://unsplash.com/photos/students-reading-textbooks-in-classroom-BCBGahg0MH0",
+      "download": "https://images.unsplash.com/photo-1557989048-03456d01a26e?auto=format&fit=max&fm=jpg&w=1200&q=78",
+      "license": "https://unsplash.com/license",
+      "description": "Students reading in a sunlit classroom.",
+      "placement": "Learning and opportunity; portrait source should be cropped near top half for landscape cards.",
+      "suggested_object_position": "50% 35%",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 143765
+    },
+    {
+      "file": "library.jpg",
+      "photographer": "Ryunosuke Kikuno",
+      "source": "https://unsplash.com/photos/people-walking-on-hallway-inside-library-Ut-76ne6_Wo",
+      "download": "https://images.unsplash.com/photo-1600431521176-c04a1acfc191?auto=format&fit=max&fm=jpg&w=1200&q=78",
+      "license": "https://unsplash.com/license",
+      "description": "People and open shelves in a bright public library in Calgary.",
+      "placement": "Open society / public knowledge / democratic freedom; portrait or generous square crop.",
+      "suggested_object_position": "50% 55%",
+      "width": 1200,
+      "height": 1798,
+      "bytes": 234542
+    },
+    {
+      "file": "partnership.jpg",
+      "photographer": "Tolu Olarewaju",
+      "source": "https://unsplash.com/photos/people-crossing-bridge-Ptyc71TeBFQ",
+      "download": "https://images.unsplash.com/photo-1561314696-16fe32581852?auto=format&fit=max&fm=jpg&w=1200&q=78",
+      "license": "https://unsplash.com/license",
+      "description": "Pedestrians and cyclists crossing a harbour bridge in Copenhagen.",
+      "placement": "Partnership / transport / connections; keep bridge within crop.",
+      "suggested_object_position": "50% 50%",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 281472
+    },
+    {
+      "file": "housing.jpg",
+      "photographer": "heino eisner",
+      "source": "https://unsplash.com/photos/modern-building-facade-with-balconies-and-plants-in-warm-sunlight-ew8VnpgX9UI",
+      "download": "https://images.unsplash.com/photo-1780653503232-8d0bb70550bb?auto=format&fit=max&fm=jpg&w=1200&q=78",
+      "license": "https://unsplash.com/license",
+      "description": "Compact apartments with lived-in balconies, plants and seating in warm evening sunlight in Copenhagen.",
+      "placement": "Housing card; warm facade can crop freely, retaining everyday details.",
+      "suggested_object_position": "50% 50%",
+      "width": 1200,
+      "height": 1755,
+      "bytes": 281738
+    },
+    {
+      "file": "energy.jpg",
+      "photographer": "Markus Spiske",
+      "source": "https://www.pexels.com/photo/solar-panels-on-green-grass-field-11145690/",
+      "license": "https://www.pexels.com/license/",
+      "description": "Solar panels on a grassy field.",
+      "placement": "Clean energy policy card.",
+      "provenance": "Existing dist/assets/energy.jpg; attribution recovered from original website source at Git commit 86ac448^.",
+      "width": 1200,
+      "height": 800,
+      "bytes": 168277
+    },
+    {
+      "file": "rail.jpg",
+      "photographer": "Castorly Stock",
+      "source": "https://www.pexels.com/photo/a-train-on-the-station-4113043/",
+      "license": "https://www.pexels.com/license/",
+      "description": "A passenger train at a station platform.",
+      "placement": "Public transport policy card.",
+      "provenance": "Existing dist/assets/rail.jpg; attribution recovered from original website source at Git commit 86ac448^.",
+      "width": 1200,
+      "height": 800,
+      "bytes": 205623
+    }
+  ]
+}
