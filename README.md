@@ -2,9 +2,9 @@
 
 A static, photo-led campaign website for the New Progressive Party, a fictional centre-left liberal party in opposition during 2068–2072.
 
-Live site: https://manualalan.github.io/npp-caprica-2068/
+Live site: https://manualalan.github.io/npp-caprica-2072/
 
-The repository name is retained so existing links keep working. Current campaign content is for 2072. The original manifesto and Klinton Arkas speeches remain explicitly identified as 2068 archive material.
+The repository and website address use the 2072 campaign year. Current campaign content is for 2072. The original manifesto and Klinton Arkas speeches remain explicitly identified as 2068 archive material.
 
 ## Edit and preview
 

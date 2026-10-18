@@ -5,7 +5,7 @@ import json
 
 ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / 'dist'
-SITE = 'https://manualalan.github.io/npp-caprica-2068/'
+SITE = 'https://manualalan.github.io/npp-caprica-2072/'
 
 # 2072 proposals, not a claim of achievements during the 2068–2072 opposition term.
 POLICIES = [
